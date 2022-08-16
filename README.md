@@ -42,3 +42,5 @@ Box com tela touch para exibição de métricas ágeis extraídas do Redmine.
 
 
 [<img align="right" height="48" src="/datasheet/buy.png">](https://www.aliexpress.com/item/33045221960.html)
+
+Na IDE do Arduino, em configuração de placa, uso a placa DOIT ESP32 DEVKIT V1
